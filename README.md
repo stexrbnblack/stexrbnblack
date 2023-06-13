@@ -3,7 +3,7 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=stexrbnblack&label=Profile%20views&color=0e75b6&style=flat" alt="stexrbnblack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username="stexrbnblack" alt="stexrbnblack"/> </a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=stexrbnblack" alt="stexrbnblack"/> </a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Web Developer, Fromt y Back-end, Python y Node.js (React)**
 
