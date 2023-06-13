@@ -16,7 +16,7 @@
 1 año como desarrollador web y 5 años de experiencia como ingeniería electrónica y telecomunicaciones (supervisor y coordinador) en proyectos tecnológicos 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left"><a href="https://linkedin.com/en/https://www.linkedin.com/en/steven-ribon-blanco/" target="blank">
-<img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-ribon-blanco/" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-ribon-blanco/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3><p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
