@@ -10,7 +10,7 @@
 - 👨‍💻 Todos mis proyectos están disponibles en [https:/ /github.com/stexrbnblack](https://github.com/stexrbnblack)
 
 - 📫 Cómo contactarme **StevenRibonBlanco@outlook.es, stexrbnblack@gmail.com**
-
+ 
 - 📄 Conoce mis experiencias [Creativa, divertida y colaborativa, muchas ganas de aprender y mejorar día a día](Creativa, divertida y colaborativa, muchas ganas de aprender y mejorar día a día) - ⚡ Dato curioso **Un poco más de
 
 1 año como desarrollador web y 5 años de experiencia como ingeniería electrónica y telecomunicaciones (supervisor y coordinador) en proyectos tecnológicos.** <
