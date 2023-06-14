@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stexrbnblack&label=Profile%20views&color=0e75b6&style=flat" alt="stexrbnblack" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=stexrbnblack" alt="stexrbnblack"/> </a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Web Developer, Fromt y Back-end, Python y Node.js (React)**
+- 🌱 Actualmente **Web Developer, Fromt y Back-end, Python y Node.js (React)**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https:/ /github.com/stexrbnblack](https://github.com/stexrbnblack)
 
 - 📫 Cómo contactarme **StevenRibonBlanco@outlook.es, stexrbnblack@gmail.com**
  
-- 📄 Conoce mis experiencias [Creativa, divertida y colaborativa, muchas ganas de aprender y mejorar día a día](Creativa, divertida y colaborativa, muchas ganas de aprender y mejorar día a día) - ⚡ Dato curioso **Un poco más de
+- 📄 Conoce mis experiencias **Un poco más de 1 año como desarrollador web y 5 años de experiencia como ingeniería electrónica y telecomunicaciones (supervisor y coordinador) en proyectos tecnológicos 
 
-1 año como desarrollador web y 5 años de experiencia como ingeniería electrónica y telecomunicaciones (supervisor y coordinador) en proyectos tecnológicos 
+- ⚡ Dato curioso [Creativa, divertida y colaborativa, muchas ganas de aprender y mejorar día a día](Creativa, divertida y colaborativa, muchas ganas de aprender y mejorar día a día)
+
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left"><a href="https://linkedin.com/en/https://www.linkedin.com/en/steven-ribon-blanco/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-ribon-blanco/" height="30" width="40" /></a>
